@@ -1,0 +1,5 @@
+.control{
+    text-align: -webkit-center;
+    display: flex;
+    flex-direction: column;
+}

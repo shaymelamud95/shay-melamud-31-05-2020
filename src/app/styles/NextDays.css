@@ -1,0 +1,17 @@
+.nextDayContent{
+    display: -webkit-inline-box;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+
+.nextDayElement{
+    border-style: inset;
+    background-color: tan;
+
+}
+.dayName{
+    font-weight: bold;
+    padding: 10px;
+
+}

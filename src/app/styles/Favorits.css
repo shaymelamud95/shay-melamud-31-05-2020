@@ -1,0 +1,18 @@
+.favoriteElement{
+    border-style: inset;
+    background-color: aqua;
+    display: inline-block;
+    padding: 15px;
+
+}
+.locationName{
+    font-weight: bold;
+    padding: 10px;
+
+}
+.favoriteContent{
+    display: -webkit-inline-box;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
